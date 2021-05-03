@@ -40,13 +40,13 @@ As it is mentioned above, the sensor must be powered by 5V, so we chose to use A
 
 Our designed board in Eagle software. 
 
-![](Images/plosak_1.png)
+![](Images/plosak_11.png)
 
 ![](Images/plosak_2.png)
 
 ![](Images/plosak_3.png)
 
-![](Images/plosak_4.png)
+![](Images/plosak_41.png)
 
 ### Buzzer
 For sound signalization with PWM we chose simple Piezo Buzzer. 
@@ -58,8 +58,7 @@ Simple change the frequency of the voltage sent to the piezo and it will start g
 ![](Images/buzzer.png)
 
 ### LED bargraph
-As visual signalization we chose 10 segment LED bargraph, where are 5 green segment which signalizated there is lots of free space (3m - 1,6m), 3 yellow segment which signalizated correct possition for parking (1,6m - 1m) and 2 red segments which signalizated there is not enought space and you have to stop or you can crash your car. 
-Correct possition for parking in city is middle yellow segment, because you must keep a distance of at least 1.2m between the vehicles for safe leave, but when you park in home garage, you can park closser to safe space.
+As visual signalization we chose 10 segment LED bargraph, where are 5 green segment which signalizated there is lots of free space (1,5m - 0,5m), 3 yellow segment (0,5m - 0,2m) and 2 red segments (0,2m - 0m) which signalizated there is not enought space and you have to stop or you can crash your car. We decided to make first green LED glow when car distance is between 1,5m and 1,2m and second if you reach 1,2m because you have to let 1,2m space when you are parking next to car for handicapped.
 
 ![](Images/led_bar.png)
 
