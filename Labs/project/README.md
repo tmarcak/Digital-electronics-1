@@ -55,12 +55,12 @@ They work by using a piezo crystal. It is a special material that changes shape 
 If the crystal pushes against a diaphragm, like a tiny speaker cone, it can generate a pressure wave which the human ear picks up as sound.  
 Simple change the frequency of the voltage sent to the piezo and it will start generating sounds by changing shape very quickly!
 
-![](Images/buzzer.png)
+![](Images/buzzer.jpg)
 
 ### LED bargraph
 As visual signalization we chose 10 segment LED bargraph, where are 5 green segment which signalizated there is lots of free space (1,5m - 0,5m), 3 yellow segment (0,5m - 0,2m) and 2 red segments (0,2m - 0m) which signalizated there is not enought space and you have to stop or you can crash your car. We decided to make first green LED glow when car distance is between 1,5m and 1,2m and second if you reach 1,2m because you have to let 1,2m space when you are parking next to car for handicapped.
 
-![](Images/led_bar.png)
+![](Images/led_bar.jpg)
 
 ### Pin cables
 
