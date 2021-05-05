@@ -3,7 +3,7 @@
 ### Team members
 Vladimír Lukáč, Masauso Lungu, Tomáš Marčák, Vít Maša
 
-Link to our GitHub project folder: [Project folder](https://github.com/tmarcak/Digital-electronics-1)
+Link to our GitHub project folder: [Project folder](https://github.com/Masauso-L/Digital-electronics-1/tree/main/Project)
 
 ### Project objectives
 
